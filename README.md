@@ -1,7 +1,7 @@
-# 📂 Repo: `ce12-dev-env-setup`
+# 📂 Repo: `quick-dev-env-setup`
 
 ```
-ce12-dev-env-setup/
+quick-dev-env-setup/
 │
 ├── README.md
 ├── Brewfile                       # Lists all packages and casks for brew bundle.
@@ -146,8 +146,8 @@ code --version
 #### macOS / Linux / WSL
 
 ```bash
-git clone https://github.com/mfaizalbe/ce12-dev-env-setup.git
-cd ce12-dev-env-setup
+git clone https://github.com/mfaizalbe/quick-dev-env-setup.git
+cd quick-dev-env-setup
 chmod +x setup-dev-environment.sh
 ./setup-dev-environment.sh
 ```
@@ -155,8 +155,8 @@ chmod +x setup-dev-environment.sh
 #### Windows
 
 ```powershell
-git clone https://github.com/mfaizalbe/ce12-dev-env-setup.git
-cd ce12-dev-env-setup
+git clone https://github.com/mfaizalbe/quick-dev-env-setup.git
+cd quick-dev-env-setup
 Set-ExecutionPolicy Bypass -Scope Process
 .\setup-windows-oneclick.ps1
 ```
